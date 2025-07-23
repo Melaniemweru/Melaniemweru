@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Final-year **Data Science & Analytics** student at USIU-Africa  
-- 🇸🇪 Exchange Scholar | Linnaeus University, Sweden  
+- 🇸🇪 Exchange Scholar | ***Linnaeus University, Sweden***  
 - 💼 Passionate about **Data Analytics**, **ML**, and **Business Intelligence**  
 - 🌱 Currently exploring: **NLP for AML Compliance**, **AWS Data Pipelines**, **Spatial Modeling**
 
